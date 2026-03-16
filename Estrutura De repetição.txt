@@ -1,0 +1,19 @@
+Estrutura De repetição
+Algoritmo NumerosPares
+
+var
+   numero : inteiro
+
+Inicio
+
+   escreva("Números pares entre 1 e 20:")
+
+   para numero de 1 ate 20 faca
+
+      se numero % 2 = 0 entao
+         escreva(numero)
+      fimse
+
+   fimpara
+
+Fim
